@@ -1,0 +1,3 @@
+C:/Users/James Li/Documents/GitHub/my-cpp-learning/Pointer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/James Li/Documents/GitHub/my-cpp-learning/Pointer/cmake-build-debug/CMakeFiles/Test.dir
+C:/Users/James Li/Documents/GitHub/my-cpp-learning/Pointer/cmake-build-debug/CMakeFiles/edit_cache.dir
